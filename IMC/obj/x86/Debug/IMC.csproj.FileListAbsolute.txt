@@ -1,0 +1,34 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\bin\Debug\IMC.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\bin\Debug\IMC.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.pdb
+E:\IMC\IMC\obj\x86\Debug\IMC.exe
+E:\IMC\IMC\obj\x86\Debug\IMC.pdb
+E:\IMC\IMC\bin\Debug\IMC.exe
+E:\IMC\IMC\bin\Debug\IMC.pdb
+E:\IMC\IMC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IMC\IMC\obj\x86\Debug\IMC.Form1.resources
+E:\IMC\IMC\obj\x86\Debug\IMC.Properties.Resources.resources
+E:\IMC\IMC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IMC\IMC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\IMC\IMC\obj\x86\Debug\IMC.exe
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\IMC\IMC\obj\x86\Debug\IMC.pdb
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\IMC\IMC\obj\x86\Debug\IMC.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\IMC\IMC\obj\x86\Debug\IMC.Form1.resources
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\IMC\IMC\obj\x86\Debug\IMC.Properties.Resources.resources
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\IMC\IMC\obj\x86\Debug\IMC.csproj.GenerateResource.Cache
+F:\curso_tecnico\3ºmodulo\willian\C#\IMC\IMC\obj\x86\Debug\IMC.exe
+F:\curso_tecnico\3ºmodulo\willian\C#\IMC\IMC\obj\x86\Debug\IMC.pdb
+F:\curso_tecnico\3ºmodulo\willian\C#\IMC\IMC\bin\Debug\IMC.exe
+F:\curso_tecnico\3ºmodulo\willian\C#\IMC\IMC\bin\Debug\IMC.pdb
+F:\curso_tecnico\3ºmodulo\willian\C#\IMC\IMC\obj\x86\Debug\IMC.csprojResolveAssemblyReference.cache
+F:\curso_tecnico\3ºmodulo\willian\C#\IMC\IMC\obj\x86\Debug\IMC.Form1.resources
+F:\curso_tecnico\3ºmodulo\willian\C#\IMC\IMC\obj\x86\Debug\IMC.Properties.Resources.resources
+F:\curso_tecnico\3ºmodulo\willian\C#\IMC\IMC\obj\x86\Debug\IMC.csproj.GenerateResource.Cache
